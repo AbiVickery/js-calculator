@@ -1,3 +1,20 @@
 body {
     position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.textview {
+    width: 200px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5;
+}
+
+.button {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
 }

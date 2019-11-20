@@ -2,6 +2,21 @@ body {
     position: relative;
     margin: 0;
     padding: 0;
+    cursor: progress;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: purple;
+    /* margin: 100px; */
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+    margin: 100px;
 }
 
 .textview {
@@ -11,8 +26,135 @@ body {
     padding: 5;
 }
 
-.button {
+/* .button {
     width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+} */
+#C {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#aligator {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#percent {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#x {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+
+#one {
+    width: 75px;
+    height: 75px;
+    font-size: 25;
+    margin: 100;
+    cursor: pointer;
+}
+#two {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#three {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#three {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#minus {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#four {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#five {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#six {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#plus {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#seven {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#eight {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#nine {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#equal {
+    width: 50px;
+    height: 50px;
+    font-size: 25;
+    margin: 2px;
+    cursor: pointer;
+}
+#zero {
+    width: 100px;
     height: 50px;
     font-size: 25;
     margin: 2px;
